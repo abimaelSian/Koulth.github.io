@@ -115,7 +115,7 @@ form input:focus{
     }
     .btn-ingresar{
         width: 70%;
-        background-color: var(--colorBotonesBordes));
+        background-color: var(--colorBotonesBordes);
         outline: none;
         color: rgb(0, 0, 0);
         font-weight: 400;
